@@ -189,6 +189,30 @@ public sealed class StationSpawningSystem : SharedStationSpawningSystem
                 EquipRoleName(jobEntity, loadout, roleProto!);
             }
 
+
+
+            DoJobSpecials(job, jobEntity);
+            _identity.QueueIdentityUpdate(jobEntity);
+     // #Goobstation - Borg Preferred Name
+          if (profile != null && (prototype.ID == "Borg")
+
+
+            {
+
+
+                var name = profile.BorgName;
+
+
+                if (TryComp<NameIdentifierComponent>(jobEntity, out var nameIdentifier) && (prototype.ID !="StationAi"))
+
+
+                    name = $"{name} {nameIdentifier.FullIdentifier}";
+
+
+
+
+
+                _metaSystem.SetEntityName(jobEntity, name);
             
             }
             return jobEntity;
