@@ -24,8 +24,9 @@ SPDX-License-Identifier: MIT
 
   [bold]6.[/bold] The Research Director must keep a log of all anomalies and eliminate any anomalies that may pose an immediate danger to crewmembers;
 
-  [bold]7.[/bold] The Research Director must ensure telecommunications is properly maintained.
+  [bold]7.[/bold] The Research Director must ensure telecommunications is properly maintained;
 
+  [bold]8.[/bold] The Research Director must remove infectious anomalies if their removal is requested by said anomalies host. 
   ## Code Blue
 
   [bold]1.[/bold] All guidelines carry over from Code Green.
@@ -52,7 +53,7 @@ SPDX-License-Identifier: MIT
 
   [bold]6.[/bold] Scientists are not permitted to distribute any weapons generated from the protolathe, unless the weapon in question (for example, Proto-Kinetic Accelerators) is delivered to the appropriate department;
 
-  [bold]7.[/bold] Scientists are not to activate Station-wide Destruction artifacts, and must destroy or eliminate them as soon as possible;
+  [bold]7.[/bold] Scientists must remove infectious anomalies if their removal is requested by said anomalies host; 
 
   [bold]8.[/bold] At least one scientist should be available to take orders from crewmembers at the Science front desk, if there is one.
 
@@ -82,7 +83,7 @@ SPDX-License-Identifier: MIT
 
   [bold]5.[/bold] Roboticists must ensure that all Cyborgs are adhering to their laws and not malfunctioning. If a Cyborg is found to be breaking their laws, their MMI Unit or Positronic Brain must be preserved and placed into a new Cyborg chassis;
 
-  [bold]6.[/bold] Roboticists must keep at least one Positronic Brain activated if possible;
+  [bold]6.[/bold] Roboticists must keep at least one Positronic Brain descrambling if possible;
 
   [bold]7.[/bold] Roboticists must adhere to all Scientist SOP guidelines.
 
